@@ -1,0 +1,16 @@
+C:\Users\User\Documents\SharpDevelop Projects\UTS_PV5\UTS_PV5\bin\Debug\UTS_PV5.exe.config
+C:\Users\User\Documents\SharpDevelop Projects\UTS_PV5\UTS_PV5\bin\Debug\UTS_PV5.exe
+C:\Users\User\Documents\SharpDevelop Projects\UTS_PV5\UTS_PV5\bin\Debug\UTS_PV5.pdb
+C:\Users\User\Documents\SharpDevelop Projects\UTS_PV5\UTS_PV5\obj\Debug\UTS_PV5.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\SharpDevelop Projects\UTS_PV5\UTS_PV5\obj\Debug\UTS_PV5.MainForm.resources
+C:\Users\User\Documents\SharpDevelop Projects\UTS_PV5\UTS_PV5\obj\Debug\UTS_PV5.csproj.GenerateResource.Cache
+C:\Users\User\Documents\SharpDevelop Projects\UTS_PV5\UTS_PV5\obj\Debug\UTS_PV5.exe
+C:\Users\User\Documents\SharpDevelop Projects\UTS_PV5\UTS_PV5\obj\Debug\UTS_PV5.pdb
+C:\Users\User\Desktop\UTS-106-PV5\UTS_PV5\UTS_PV5\bin\Debug\UTS_PV5.exe.config
+C:\Users\User\Desktop\UTS-106-PV5\UTS_PV5\UTS_PV5\bin\Debug\UTS_PV5.exe
+C:\Users\User\Desktop\UTS-106-PV5\UTS_PV5\UTS_PV5\bin\Debug\UTS_PV5.pdb
+C:\Users\User\Desktop\UTS-106-PV5\UTS_PV5\UTS_PV5\obj\Debug\UTS_PV5.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\UTS-106-PV5\UTS_PV5\UTS_PV5\obj\Debug\UTS_PV5.MainForm.resources
+C:\Users\User\Desktop\UTS-106-PV5\UTS_PV5\UTS_PV5\obj\Debug\UTS_PV5.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\UTS-106-PV5\UTS_PV5\UTS_PV5\obj\Debug\UTS_PV5.exe
+C:\Users\User\Desktop\UTS-106-PV5\UTS_PV5\UTS_PV5\obj\Debug\UTS_PV5.pdb
